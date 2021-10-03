@@ -1,0 +1,27 @@
+
+* {
+  background-color: black;
+  color: white;
+}
+
+#PrimerTexto
+{
+text-align: center;
+font-size: 125%;
+}
+
+#itchio
+{
+background-color: white;
+height: 50px; width: 50px;
+display: block;
+margin: auto;
+margin-top: 1.5%;
+}
+
+#LINKS
+{
+    font-size: 100%;
+    text-align: center;
+    margin-top: 1%; 
+}
